@@ -3,7 +3,7 @@ Communication Contract for Microservice
 ____________________________________________________________________________________________________
 
 A. In order to programmatically REQUEST data from the microservice, we utilize
-   the "subprocess" module in Python. First, make sure you "import subporcess"
+   the "subprocess" module in Python. First, make sure you "import subprocess"
    at the top of your main program. Second, in order to request a random number
    within a specfic range from the microservice, make a call similar to this in
    your main program:
